@@ -1,0 +1,24 @@
+{
+  "name": "codify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "body-parser": "^1.19.1",
+    "codemirror": "^5.65.0",
+    "cors": "^2.8.5",
+    "dotenv": "^12.0.4",
+    "express": "^4.17.2",
+    "pusher": "^5.0.0",
+    "pusher-js": "^7.0.3",
+    "pushid": "^1.0.0",
+    "react-codemirror2": "^7.2.1"
+  }
+}
